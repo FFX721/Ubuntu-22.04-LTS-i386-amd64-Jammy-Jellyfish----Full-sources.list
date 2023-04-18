@@ -1,0 +1,1 @@
+# Ubuntu-22.04-LTS-i386-amd64-Jammy-Jellyfish----Full-sources.list
